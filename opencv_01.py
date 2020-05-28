@@ -99,3 +99,6 @@ cv2.putText(output, "OpenCV + Jurassic Park!!!", (10, 25),
 	cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 255, 0), 2)
 cv2.imshow("Text", output)
 cv2.waitKey(0)
+
+#For details
+#https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/ 
